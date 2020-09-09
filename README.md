@@ -1,6 +1,6 @@
 ### Hi there, I'm Toby - aka Tprafke 👋
 
-## I'm a current Web Developer and front-end specialist
+## I'm a Web Developer and front-end specialist
 
 ### Connect with me on LinkedIn:
 
