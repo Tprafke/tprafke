@@ -1,10 +1,10 @@
 ### Hi there, I'm Toby - aka Tprafke 👋
 
-## I'm a Web Developer and front-end specialist
+## I'm a Full-Web Developer
 
 ### Connect with me on LinkedIn:
 
-[<img align="left" alt="toby-prafke | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](www.linkedin.com/in/toby-prafke)
+[<img align="left" alt="toby-prafke | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/toby-prafke/)
 
 <br/>
 
