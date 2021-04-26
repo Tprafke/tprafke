@@ -2,7 +2,7 @@
 
 ## I'm a Full-Stack Web Developer
 
-### Portfolio: www.tprafke.com
+### [Portfolio Website](https://www.tprafke.com/)
 
 ### Connect with me on LinkedIn:
 
