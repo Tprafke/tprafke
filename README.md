@@ -2,7 +2,7 @@
 
 ## I'm a Full-Stack Web Developer
 
-### Portfolio: https://tprafke.netlify.app/
+### Portfolio: www.tprafke.com
 
 ### Connect with me on LinkedIn:
 
