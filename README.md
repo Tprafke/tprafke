@@ -1,4 +1,4 @@
-### Hi there, I'm Toby - aka Tprafke 👋
+### Hi, My name is Toby Prafke  👋
 
 ## I'm a Full-Stack Web Developer
 
